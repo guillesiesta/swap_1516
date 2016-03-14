@@ -2,6 +2,7 @@
 ## Tipos de servidores y sus tipos de contenido 
 
 **Apache**
+
 Es el más usado en servidores web. Aunque esto no quiere decir que sea el mejor. Su gran deficiencia es el rendimiento.
 
 Apache crea hilos y sub-hilos para manejar conexiones adicionales. El administrador puede configurar el servidor para controlar el número máximo de hilos, pero esto depende de la memoria disponible en la máquina. Una vez se llegue al máximo de hilos alcanzados, Apache restringe las conexiones adicionales. 
