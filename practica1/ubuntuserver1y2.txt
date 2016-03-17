@@ -1,0 +1,23 @@
+Máquina Virtual 1 (Ubuntu Server 12.04)
+
+Server version: Apache/2.2.22 (Ubuntu)
+Server built:   Jul 24 2015 17:25:42
+root       1574  0.0  0.8 193536  8508 ?        Ss   18:08   0:00 /usr/sbin/apache2 -k start
+www-data   1699  0.0  0.5 193560  5180 ?        S    18:08   0:00 /usr/sbin/apache2 -k start
+www-data   1700  0.0  0.5 193560  5180 ?        S    18:08   0:00 /usr/sbin/apache2 -k start
+www-data   1701  0.0  0.5 193560  5180 ?        S    18:08   0:00 /usr/sbin/apache2 -k start
+www-data   1702  0.0  0.5 193560  5180 ?        S    18:08   0:00 /usr/sbin/apache2 -k start
+www-data   1703  0.0  0.5 193560  5180 ?        S    18:08   0:00 /usr/sbin/apache2 -k start
+1000       2110  0.0  0.0  11916   940 tty1     S+   18:24   0:00 grep --color=auto apache2
+
+Máquina Virtual 2 (Ubuntu Server 12.04)
+
+Server version: Apache/2.2.22 (Ubuntu)
+Server built:   Jul 24 2015 17:25:42
+root       1516  0.7  0.8 193536  8508 ?        Ss   18:09   0:04 /usr/sbin/apache2 -k start
+www-data   1671  0.0  0.5 193560  5180 ?        S    18:09   0:00 /usr/sbin/apache2 -k start
+www-data   1672  0.0  0.5 193560  5180 ?        S    18:09   0:00 /usr/sbin/apache2 -k start
+www-data   1673  0.0  0.5 193560  5180 ?        S    18:09   0:00 /usr/sbin/apache2 -k start
+www-data   1674  0.0  0.5 193560  5180 ?        S    18:09   0:00 /usr/sbin/apache2 -k start
+www-data   1675  0.0  0.5 193560  5180 ?        S    18:09   0:00 /usr/sbin/apache2 -k start
+1000       2104  0.0  0.0  11916   940 tty1     S+   18:19   0:00 grep --color=auto apache2
