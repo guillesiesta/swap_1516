@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>La fórmula escala "punto nueve" es la siguiente</enunciado>
+  <opcionA>100 * (periodoTiempo / tiempoCaido) - 100</opcionA>
+  <opcionB>100 * (tiempoCaido / periodoTiempo) </opcionB>
+  <opcionC>100 - (tiempoCaido / periodoTiempo) * 100</opcionC>
+  <opcionD>100 - (tiempoCaido / periodoTiempo)</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Cuál de estos niveles no es de los tres principales niveles a configurar para escalar un sitio web?</enunciado>
+  <opcionA>Máquinas como servidores web</opcionA>
+  <opcionB>Aplicaciones</opcionB>
+  <opcionC>Almacenamiento</opcionC>
+  <opcionD>Redes de transmisión</opcionD>
+  <solucion>D</solucion>
+</pregunta>
