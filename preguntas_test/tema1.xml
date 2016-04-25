@@ -1,0 +1,18 @@
+<pregunta>
+	<enunciado>¿Cuál es la mejor solución para hacer frente a un alto tráfico de red y dar servicio a millones de usuarios?</enunciado>
+	<opcionA>Montar varias máquinas, dedicando una a cada servicio que se esté ofreciendo.</opcionA>
+	<opcionB>Montar dos servidores. Uno como servidor principal y otro como servidor copia por si éste falla.</opcionB>
+	<opcionC>Montar un servidor en una máquina</opcionC>
+	<opcionD>Montar una granja web</opcionD>
+	<solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado>¿Qué posibles problemas de los siguientes no debemos de tener tan en cuenta a la hora de implementar el desarrollo de un sitio web?</enunciado>
+	<opcionA>Arquitectura</opcionA>
+	<opcionB>Tipos de usuarios</opcionB>
+	<opcionC>Disponibilidad</opcionC>
+	<opcionD>Carga</opcionD>
+	<solucion>B</solucion>
+</pregunta>
+
