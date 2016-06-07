@@ -33,6 +33,8 @@ Como resultado, obtengo la siguiente tabla y sus correspondientes diagramas.
 
 ![img](https://github.com/guillesiesta/swap_1516/blob/master/practica4/img/ab_balanceador_nginx.png)
 
+![img](https://github.com/guillesiesta/swap_1516/blob/master/practica4/img/ab_balanceador_nginx_ttft.png)
+
 ![img](https://github.com/guillesiesta/swap_1516/blob/master/practica4/img/ab_balanceador_nginx_fr.png)
 
 ![img](https://github.com/guillesiesta/swap_1516/blob/master/practica4/img/ab_balanceador_nginx_rps.png)
