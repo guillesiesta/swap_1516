@@ -1,0 +1,53 @@
+<pregunta>
+  <enunciado>El número de conexiones concurrentes:</enunciado>
+  <opcionA>Es la métrica para determinar cuantas sesiones de usuario TCP puede manejar el balanceador.</opcionA>
+  <opcionB>Está limitado por la memoria o el procesador del dispositivo.</opcionB>
+  <opcionC>Ninguna es correcta</opcionC>
+  <opcionD>La A y B son correctas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Dentro de los tipos de tráfico, cuál de ellos hace una conexión inicial, y a continuación se envía una gran cantidad de información.</enunciado>
+  <opcionA>Tráfico FTP y el de streaming.</opcionA>
+  <opcionB> El tráfico HTTP.</opcionB>
+  <opcionC> El tráfico TCP.</opcionC>
+  <opcionD>Ninguna es correcta.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Qué versión HTTP permite obtener varios objetos durante una sesión abierta con una sola conexión?</enunciado>
+  <opcionA>HTTP 2.3</opcionA>
+  <opcionB>HTTP 2.0</opcionB>
+  <opcionC>HTTP 1.1</opcionC>
+  <opcionD>HTTP 1.0</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Qué debe asegurar la defensa en profundidad en el caso de una granja web?</enunciado>
+  <opcionA>La protección a diferentes niveles de seguridad.</opcionA>
+  <opcionB>La intrusión de paquetes no deseados dentro del servidor.</opcionB>
+  <opcionC>Evitar la redundancia de datos en los discos.</opcionC>
+  <opcionD>Todas son correctas.</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿En qué consiste un privilegio de uso?</enunciado>
+  <opcionA>Son las acciones que puede llevar a cabo el administrador dentro del sistema.</opcionA>
+  <opcionB>Definen las acciones que puede llevar a cabo un usuario correctamente identificado.</opcionB>
+  <opcionC>Son los diferentes niveles de seguridad por los que debe pasar un hacker.</opcionC>
+  <opcionD>Ninguna de las anteriores es correcta.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Cuál de las siguientes arquitecturas ofrece seguridad a nivel de red?</enunciado>
+  <opcionA>Conexión de red.</opcionA>
+  <opcionB>Red compartida.</opcionB>
+  <opcionC>Dominio compartido.</opcionC>
+  <opcionD>Servidor no redundante.</opcionD>
+  <solucion>C</solucion>
+</pregunta>

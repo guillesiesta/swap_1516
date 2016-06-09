@@ -1,0 +1,26 @@
+<pregunta>
+  <enunciado>irtual IP (VIP) es:</enunciado>
+  <opcionA>La dirección pública a la que acceden los usuarios cuando hacen una petición de servicio a nuestro servidor web.</opcionA>
+  <opcionB>La dirección privada a la que acceden los usuarios cuando hacen una petición de servicio a nuestro servidor web.</opcionB>
+  <opcionC>Normalmente es la IP del balanceador.</opcionC>
+  <opcionD>La A y C son correctas. </opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Un balanceador de carga:</enunciado>
+  <opcionA>Es un puente entre los servidores y la red.</opcionA>
+  <opcionB>Puede manejar los protocolos de alto nivel.</opcionB>
+  <opcionC>Puede manejar los protocolos de nivel de red.</opcionC>
+  <opcionD>Todas son correctas</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Si vamos a tener servidores con diferente configuración y potencia, y vamos a servir diferentes aplicaciones y contenidos:</enunciado>
+  <opcionA>Usamos algoritmos estáticos.</opcionA>
+  <opcionB>Usamos algoritmos basados en ponderación.</opcionB>
+  <opcionC>Usamos el algoritmo estático del tipo round-robin.</opcionC>
+  <opcionD>Ninguna es correcta.</opcionD>
+  <solucion>B</solucion>
+</pregunta>

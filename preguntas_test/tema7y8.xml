@@ -1,0 +1,53 @@
+<pregunta>
+  <enunciado>Una gran cantidad de accesos a la BD por cada petición HTTp puede sobrcargar la conexión de la red entre los:</enunciado>
+  <opcionA>Servidores de aplicacion y BD</opcionA>
+  <opcionB>Servidores de BD y video</opcionB>
+  <opcionC>Servidores web y BD</opcionC>
+  <opcionD>Servidores de aplicacion y web</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Cuál de estos RAID existe?</enunciado>
+  <opcionA>RAID 1+2</opcionA>
+  <opcionB>RAID 1+0</opcionB>
+  <opcionC>RAID 3+4</opcionC>
+  <opcionD>RAID 6+7</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Cuál de las siguientes abreviaturas pertenece a "Área de almacenamiento en red"?</enunciado>
+  <opcionA>SSA</opcionA>
+  <opcionB>DAS</opcionB>
+  <opcionC>NAS</opcionC>
+  <opcionD>SAN</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Hardware ampliable:</enunciado>
+  <opcionA>Un hardware ampliable debe tener capacidad de disco, cpu, red y memoria que excedan los requisitos para poder soportar las aplicaciones futuras.</opcionA>
+  <opcionB>El hardware no es importante en un servidor.</opcionB>
+  <opcionC>Simplemente con un ordenador que tenga un hardware aguantando las aplicaciones actuales no se necesita mas potencia</opcionC>
+  <opcionD>El software puede solucionar los problemas de hardware</opcionD>
+  <solucion>A</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Hardware tolerante a fallos:</enunciado>
+  <opcionA>Con una maquina buena se tiene una disponibilidad del server del 99%, no se necesita mas.</opcionA>
+  <opcionB>Es necesaria una inversion inicial en la adquisicion de fuentes de alimentacion discos duros etc para evitar caidas prolongadas del servicio.</opcionB>
+  <opcionC>Hacer un sobrecosto inicial no implica mejoras en el servicio.</opcionC>
+  <opcionD>El softwre puede solucionar los problemas de hardware</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>Area de almacenamiento en red:</enunciado>
+  <opcionA>El softwre puede solucionar los problemas de hardware</opcionA>
+  <opcionB>Es un sistema de almacenamiento que usa múltiples discos duros entre los que se distribuyen o replican los datos.</opcionB>
+  <opcionC>Se conectan impresoras y faxes en red.</opcionC>
+  <opcionD>Es una red de almacenamiento muy especializada que conecta dispositivos de almacenamiento a los servidores.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
